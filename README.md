@@ -19,3 +19,6 @@ Progress notes/assumptions:
  
  Thats quite a lot of discussion points to get the ball rolling, hope it was what you were expecting
  
+ 
+ Note: I have removed OBJ, BIN and package files to keep repo small
+ 
